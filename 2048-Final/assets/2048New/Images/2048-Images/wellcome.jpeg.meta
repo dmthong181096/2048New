@@ -1,6 +1,6 @@
 {
   "ver": "2.3.3",
-  "uuid": "70d07155-7e7a-49b5-9466-9b497da283ef",
+  "uuid": "9952b7f7-cf5f-4230-877e-92b658c091be",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -9,10 +9,10 @@
   "packable": true,
   "platformSettings": {},
   "subMetas": {
-    "Waterfall, Olga Kim": {
+    "wellcome": {
       "ver": "1.0.4",
-      "uuid": "4f98211f-d38c-462c-a076-1e4685d8797f",
-      "rawTextureUuid": "70d07155-7e7a-49b5-9466-9b497da283ef",
+      "uuid": "da087c2e-399f-4b42-8627-fa27f9c5f325",
+      "rawTextureUuid": "9952b7f7-cf5f-4230-877e-92b658c091be",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -20,10 +20,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 744,
-      "height": 1000,
-      "rawWidth": 744,
-      "rawHeight": 1000,
+      "width": 467,
+      "height": 800,
+      "rawWidth": 467,
+      "rawHeight": 800,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

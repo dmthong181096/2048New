@@ -10,5 +10,9 @@ let logic = {
             node.active = true
         });
     },
+    // overLay(){
+    //    let overLay = new cc.Node
+
+    // },
 }
 module.exports =logic
